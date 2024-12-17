@@ -4,7 +4,7 @@
 - 👀 I’m interested in Cloud Computing, AI and Machine Learning in Cloud platforms
 - 🌱 I’m currently learning self healing networks
 - 💞️ I’m looking to collaborate on Microsoft Azure
-- 📫 How to reach me @gpande@gatech.edu
+- 📫 How to reach me gpande at gatech.edu
 
 
 
